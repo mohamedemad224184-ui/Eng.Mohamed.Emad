@@ -1,0 +1,11 @@
+window.portfolioData={
+skills:[['⚡','Electronics'],['⌁','Circuit Design'],['◉','Arduino'],['▣','ESP32'],['⌘','Web Development'],['▱','Android Development'],['◈','Flutter'],['⌁','Arduino IDE'],['◫','Android Studio'],['⌘','GitHub'],['✦','Artificial Intelligence'],['◌','Embedded Systems']],
+projects:[
+{name:'Smart Irrigation',ar:'الري الذكي',desc:'مشروع لنظام ري ذكي يعتمد على الإلكترونيات والتحكم البرمجي لتنفيذ عملية الري بصورة عملية وقابلة للتطوير.',en:'A smart irrigation system combining electronics and software control for practical, scalable watering.',tags:['ESP32','Electronics','Embedded Systems'],icon:'💧'},
+{name:'Smart Home',ar:'المنزل الذكي',desc:'نظام منزل ذكي يعتمد على التحكم الإلكتروني والأنظمة المدمجة لتنفيذ وظائف مختلفة والتحكم في الأجهزة.',en:'A smart-home system using electronic control and embedded systems to manage connected devices.',tags:['ESP32','Arduino','Electronics','IoT'],icon:'⌂'},
+{name:'Timer Circuit',ar:'دائرة التايمر',desc:'دائرة إلكترونية لتنفيذ وظائف التحكم الزمني، ضمن مجموعة من المشاريع الإلكترونية العملية.',en:'An electronic circuit for time-based control functions, created as a practical electronics project.',tags:['Electronics','Circuit Design'],icon:'◷'},
+{name:'Oscillator Circuit',ar:'دائرة المذبذب',desc:'مشروع إلكتروني يعتمد على دائرة مذبذب لتوليد إشارة دورية ضمن تطبيقات الإلكترونيات العملية.',en:'An electronics project based on an oscillator circuit for generating periodic signals.',tags:['Electronics','Circuit Design'],icon:'〰'},
+{name:'Night Lighting Circuit',ar:'دائرة الإضاءة الليلية',desc:'دائرة إلكترونية للتحكم في الإضاءة الليلية وتشغيلها وفق ظروف الإضاءة.',en:'An electronic circuit that controls night lighting according to ambient light conditions.',tags:['Electronics','Embedded Systems'],icon:'☾'},
+{name:'Electronics Projects',ar:'مشاريع إلكترونيات',desc:'مجموعة من التجارب والمشاريع الإلكترونية التي يتم تنفيذها وتطويرها أثناء الدراسة والتعلم العملي.',en:'A collection of electronics experiments and projects developed through hands-on learning.',tags:['Electronics','Arduino'],icon:'⚡'}],
+certificates:[['🏅','شهادة تقدير على حسن السلوك','Certificate of appreciation for good conduct.'],['🎨','شهادة تقدير على براعة التصميم','Certificate of appreciation for design excellence.'],['🏆','شهادة اجتياز جميع الجدارات','Certificate for completing all competencies.']]
+};
